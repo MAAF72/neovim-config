@@ -1,0 +1,6 @@
+lazy-lock.json
+plugin/packer_compiled.lua
+*/.DS_Store
+*/node_modules
+*/.cache
+*/.mason
