@@ -4,3 +4,4 @@ plugin/packer_compiled.lua
 */node_modules
 */.cache
 */.mason
+.ccls-cache
